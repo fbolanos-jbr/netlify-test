@@ -1,4 +1,4 @@
-import { IonButton, IonIcon } from "@ionic/react";
+import { IonButton } from "@ionic/react";
 import { ReactNode } from "react";
 import './card-button.scss'
 

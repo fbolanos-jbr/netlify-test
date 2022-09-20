@@ -58,7 +58,7 @@ function Menu() {
               </IonGrid>
             </IonItem>
           </a>
-          <a href="#">
+          <a href="./grupos">
             <IonItem>
               <IonGrid>
                 <IonRow>
@@ -72,7 +72,7 @@ function Menu() {
               </IonGrid>
             </IonItem>
           </a>
-          <a href="#">
+          <a href="./grupos">
             <IonItem>
               <IonGrid>
                 <IonRow>
@@ -100,7 +100,7 @@ function Menu() {
               </IonGrid>
             </IonItem>
           </a>
-          <a href="#">
+          <a href="./grupos">
             <IonItem>
               <IonGrid>
                 <IonRow>

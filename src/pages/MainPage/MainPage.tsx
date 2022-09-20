@@ -1,6 +1,6 @@
 import CardButton from '../../components/buttons/card-button/card-button';
 import Header from '../../components/header/header';
-import { useHistory } from 'react-router-dom';
+
 import {
   IonPage,
   IonContent,
@@ -18,7 +18,6 @@ import {
 } from "ionicons/icons";
 
 function MainPage() {
-  const history = useHistory();
 
   return (
     <IonPage id="main">
