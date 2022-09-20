@@ -93,7 +93,7 @@ function Login() {
                 </IonRow>
                 <IonRow className="ion-justify-content-center">
                   <IonCol>
-                    <a href="#">Olvide mi contraseña</a>
+                    <a href="./grupos">Olvide mi contraseña</a>
                   </IonCol>
                 </IonRow>
               </IonCol>
