@@ -1,0 +1,7 @@
+{
+  "name": "somos-antigua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

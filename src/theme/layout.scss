@@ -1,0 +1,13 @@
+.layout {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  overflow: scroll;
+  .container {
+    flex-grow: 1;
+  }
+}
+.header{
+    display: flex;
+}
